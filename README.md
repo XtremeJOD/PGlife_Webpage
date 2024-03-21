@@ -2,7 +2,7 @@
 <samp> Description - 
 This website is made keeping in mind about how challenging it is for the students
 to search for good accommodation when they join college/university.
-</samp?
+</samp>
 
 <samp> Final Project.  
 Web Development Trainings.  
